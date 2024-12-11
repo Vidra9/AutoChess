@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\_PROJECTS\\_UE\\AutoChess\\AutoChess\\Source\\AutoChess\\AutoChess.Build.cs",
+		"E:\\_PROJECTS\\_UE\\AutoChess\\AutoChess\\Source\\AutoChess.Target.cs",
+		"E:\\_PROJECTS\\_UE\\AutoChess\\AutoChess\\Source\\AutoChessEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
